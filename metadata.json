@@ -1,0 +1,8 @@
+{
+  "name": "Warrior Portfolio - Interactive AI Experience",
+  "description": "A cutting-edge, world-class portfolio featuring an interactive AI-powered digital twin assistant, dynamic project showcases, and high-end visual design built with React, Tailwind CSS, and Gemini API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
