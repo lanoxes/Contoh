@@ -4,5 +4,7 @@
   "requestFramePermissions": [
     "camera",
     "microphone"
-  ]
+  ],
+  "C7": [],
+  "aq": []
 }
